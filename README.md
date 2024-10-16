@@ -2,6 +2,7 @@
 This repository contains the code for a GENAI-based project featuring a user interface that offers various accessibility options. It utilizes PADDLE OCR for optical character recognition and integrates the GEMINI AI chatbot for enhanced user interaction.
 
 PaddleOCR is a toolkit and framework for optical character recognition (OCR) that helps users extract text from images and documents:
+
 PaddleOCR offers a variety of pre-trained models, including text detection, text direction classifier, and text recognition models. It also has multilingual models that cover languages like Latin, Arabic, Traditional Chinese, Korean, and Japanese.
 The PaddleOCRv3 models architecture
 PP-OCRv3 text detection is made with the Differentiable Binarization algorithm (DB) trained using distillation strategy. The PP-OCRv3 recogniser is optimised based on the text recognition algorithm, Scene Text Recognition with a Single Visual Model (SVTR, Du et al. 2022).
