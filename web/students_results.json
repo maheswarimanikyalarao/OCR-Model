@@ -1,0 +1,79 @@
+{
+    "students": [
+        {
+            "student_name": "Venkamanikyamba",
+            "registration_number": "3376",
+            "exam_center": "Centre--THE HINDU COLLEGE GUNTUR",
+            "subjects": [
+                {
+                    "subject": "Mathematics",
+                    "marks": "92"
+                },
+                {
+                    "subject": "Physics",
+                    "marks": "87"
+                },
+                {
+                    "subject": "Chemistry",
+                    "marks": "89"
+                },
+                {
+                    "subject": "English",
+                    "marks": "93"
+                }
+            ],
+            "total_marks": "361",
+            "grade": "A"
+        },
+        {
+            "student_name": "Pothuri Anjanidevi",
+            "registration_number": "123456",
+            "exam_center": "BBH JUNIOR COLLEGE,VETAPALEM",
+            "subjects": [
+                {
+                    "subject": "Physics",
+                    "marks": "88"
+                },
+                {
+                    "subject": "Mathematics",
+                    "marks": "95"
+                },
+                {
+                    "subject": "Chemistry",
+                    "marks": "90"
+                },
+                {
+                    "subject": "Biology",
+                    "marks": "85"
+                }
+            ],
+            "total_marks": "358",
+            "grade": "B"
+        },
+        {
+            "student_name": "GUTI NAGA KUMAR",
+            "registration_number": "654321",
+            "exam_center": "BBH JUNIOR COLLEGE ,VETAPALEM",
+            "subjects": [
+                {
+                    "subject": "Mathematics",
+                    "marks": "76"
+                },
+                {
+                    "subject": "History",
+                    "marks": "81"
+                },
+                {
+                    "subject": "Geography",
+                    "marks": "74"
+                },
+                {
+                    "subject": "English",
+                    "marks": "88"
+                }
+            ],
+            "total_marks": "319",
+            "grade": "B+"
+        }
+    ]
+}
